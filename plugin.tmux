@@ -1,3 +1,2 @@
 # plugin.tmux
-run-shell "$HOME/.tmux/plugins/tmux-giwa.conf"
-
+run-shell "#{plugin_path}/tmux-giwa.conf"
